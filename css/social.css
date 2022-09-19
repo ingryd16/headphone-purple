@@ -1,5 +1,7 @@
 .social{
     grid-area: social;
-    color: white;
-    background-color: violet;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    gap: 20px;
 }

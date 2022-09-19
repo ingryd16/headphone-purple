@@ -1,0 +1,16 @@
+.social-icon{
+    Width: 48px;
+    Height: 48px;
+    border: 2px solid white;
+    border-radius: 50%;
+    color: white;
+    display: grid;
+    place-items: center;
+    font-size: 1.5rem;
+    transition: all .5s;
+}
+
+.social-icon:hover{
+    background-color: #CF09A4;
+    border:2px solid #CF09A4;
+}
